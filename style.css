@@ -1,0 +1,22 @@
+table, th, td{
+	border-style:solid;
+}
+
+tbody th{
+	font-weight:normal;
+	font-style:italic;
+}
+
+.outer-content{
+	
+	margin-top:20px;
+	width:75%;
+	background-color:#FF99FF;
+}
+
+.inner-content{
+	width:75%;
+	background-color:#6699FF;
+	text-align:center;
+	margin: 0 auto; 	
+}
